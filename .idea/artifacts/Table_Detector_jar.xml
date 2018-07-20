@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Table Detector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Table_Detector_jar</output-path>
+    <root id="archive" name="Table Detector.jar">
+      <element id="module-output" name="Table Detector" />
+      <element id="extracted-dir" path="C:/Matrial Design/jfoenix.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
